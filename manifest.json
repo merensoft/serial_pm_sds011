@@ -1,0 +1,8 @@
+{
+    "domain": "serial_pm_sds011",
+    "name": "Serial Particulate Matter Sensor SDS011",
+    "codeowners": ["@agonzale34"],
+    "iot_class": "local_polling",
+    "requirements": ["pyserial>=3"],
+    "version": "0.1.0"
+}
